@@ -1,0 +1,9 @@
+{
+  "africatoken": {
+    "name": "AfricaToken",
+    "symbol": "AFC",
+    "description": "L'utilisateur souhaite créer un token appelé 'AfricaToken' (symbole : AFC) comme monnaie électronique destinée à l'Afrique, motivé par l'absence de monnaie propre pour le continent.",
+    "objective": "Développer une monnaie numérique pour le continent africain afin de renforcer les transactions locales et internationales.",
+    "current_status": "L'utilisateur est dans les phases initiales de la création du token et cherche à définir une stratégie pour son lancement."
+  }
+}
